@@ -1,24 +1,4 @@
-// import { useState } from 'react'
 
-//
-
-// function App() {
-
-//   return (
-//     <div className="allbody">
-//       <header>
-//         <p className="head">Team Availability Dashboard</p>
-//         <p
-//           className="subhead"
-//         >
-//           Manage your team's real-time availability status
-//         </p>
-//       </header>
-//     </div>
-//   );
-// }
-
-// export default App
 
 import { useState, useMemo } from "react";
  import "./App.css";
